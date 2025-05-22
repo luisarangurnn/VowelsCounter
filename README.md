@@ -29,7 +29,7 @@ Al cargar la página, el usuario encontrará un campo de texto donde puede escri
 
 - HTML5
 - JavaScript puro (Vanilla JS)
-- CSS (opcional, para estilos)
+
 
 ## 📝 Ejemplo de uso
 
